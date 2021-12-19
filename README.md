@@ -15,8 +15,11 @@ The results of the June analysis show, across 1700 pieces of temperature data ga
 
 <img src="Resources/Dec-Temps.png">
 The results of the December analysis shows, across 1517 pieces of temperature data gathered:
+
 - Average temperature in December from 2010-2017 is 71F
+
 - Min temp is 56F
+
 - Max is 83F 
 
 ## 3. Summary 
