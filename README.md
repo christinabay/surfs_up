@@ -6,8 +6,11 @@ With the objective of opening a surf shop, investor W. Avy has asked for an anal
 ## 2. Results 
 <img src="Resources/June-Temps.png">
 The results of the June analysis show, across 1700 pieces of temperature data gathered:
+
 - Average temperature in June from 2010-2017 is ~75F 
+
 - Min temp is 64F
+
 - Max temp is 85F 
 
 <img src="Resources/Dec-Temps.png">
